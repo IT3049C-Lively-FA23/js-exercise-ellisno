@@ -13,7 +13,7 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 ```
 - [x] All Unit tests passed.
 - [x] filled out the self-evaluation.
-- [ x filled out the self-reflection.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 69 automated checks)
