@@ -11,15 +11,16 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 ```md
 - [x] This task is complete.
 ```
-- [ ] All Unit tests passed.
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] All Unit tests passed.
+- [x] filled out the self-evaluation.
+- [ x filled out the self-reflection.
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 69 automated checks)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: 20
 
 ## Self-Reflection:
-<!-- What did you learn that you found interesting -->
+<!-- What did you learn that you found interesting --> I learned more about the syntax of javascript and more about the arrow function.
 
 ### How long it took you to finish this?
+roughly 4 hours. 
