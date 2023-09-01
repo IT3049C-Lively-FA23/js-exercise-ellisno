@@ -42,8 +42,8 @@ function append(arr, item) {
 function truncate(arr) {
 
   arrayLength = arr.length;
-  Newarr = arr.slice(0, (arrayLength - 1))
-  return Newarr;
+  newArr = arr.slice(0, (arrayLength - 1))
+  return newArr;
 }
 
 // Concat: you should be able to join together two arrays
