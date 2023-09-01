@@ -6,7 +6,7 @@
  *   a `full_name` function that would return the concatenation of `first_name` and `last_name` properties.
  *   an `introduction` function that returns a string of a welcome message. The introduction function:
  *      * must call the `full_name()` function to present the person's name.
- *      * must use the `class_of` property in the introduction
+ *      * must use the `class_of` property in the introduction.
  */
 const personObject = {
   first_name: " ",

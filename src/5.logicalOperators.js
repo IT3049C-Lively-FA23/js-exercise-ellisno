@@ -12,7 +12,7 @@ function or(a, b) {
   
 }
 
-//and: should return true only if both a and b are truthy
+//and: should return true only if both a and b are truthy.
 function and(a, b) {
   if(a && b ){
     return true; 

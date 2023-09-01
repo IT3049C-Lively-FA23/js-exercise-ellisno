@@ -53,7 +53,7 @@ function concat(arr1, arr2) {
 }
 
 // Insert: you should be able to add an item at the specified index of an array
-// hint: use splice and pay attention to the return value
+// hint: use splice and pay attention to the return value.
 function insert(arr, item, index) {
   
   arr.splice(index, 0, item);
