@@ -3,7 +3,7 @@ function add (num1, num2) {
   return num1 + num2 ;
 }
 
-//subtract: Should be able to subtract numbers
+//subtract: Should be able to subtract numbers.
 function subtract (num1, num2) {
   return num1 - num2;
 }
