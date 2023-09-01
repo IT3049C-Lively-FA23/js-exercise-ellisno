@@ -7,6 +7,7 @@
  *    if no number was provided or if the value provided wasn't a number (hint: typeof), return false
  */
 function fizzBuzz(num) {
+  
   if(num % 3 === 0 && num % 5 !== 0){
     return "fizz"
   }
