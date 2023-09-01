@@ -20,7 +20,7 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 how many points out of 20 do you deserve on this assignment: 20
 
 ## Self-Reflection:
-<!-- What did you learn that you found interesting --> I learned more about the syntax of javascript and more about the arrow function.
+<!-- What did you learn that you found interesting --> I learned more about the syntax of javascript and more about the arrow function and truthy and falsey.
 
 ### How long it took you to finish this?
-roughly 4 hours. 
+Roughly 4 hours. 
